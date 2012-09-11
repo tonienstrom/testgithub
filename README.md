@@ -19,3 +19,4 @@ _a student in aalto university of art and design._
 * __website__
   * <a href="http://nstrm.com">nstrm.com</a>
   * <a href="http://youtube.com/nstrm">youtube.com/nstrm</a>
+  * <a href="http://vimeo.com/nstrm">vimeo.com/nstrm</a>
