@@ -5,6 +5,8 @@ _a student in aalto university school of art and design._
 <img src="https://raw.github.com/tonienstrom/testgithub/new_branch/itsme.jpg">
 
 test with md-code: ![pic](new_branch/itsme.jpg)
+test with md-code: !(new_branch/itsme.jpg)
+
 
 ### background
 
