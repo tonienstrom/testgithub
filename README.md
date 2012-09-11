@@ -1,4 +1,0 @@
-testgithub
-==========
-
-Just a test
