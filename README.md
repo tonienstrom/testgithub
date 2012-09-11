@@ -2,7 +2,7 @@
 #toni enstrom
 _a student in aalto university school of art and design._
 
-
+![my portrait](its me.jpg)
 
 ### background
 
@@ -21,4 +21,3 @@ _a student in aalto university school of art and design._
   * <a href="http://youtube.com/nstrm">youtube.com/nstrm</a>
   * <a href="http://vimeo.com/nstrm">vimeo.com/nstrm</a>
 
-(branch 2!)
