@@ -1,6 +1,6 @@
 
 #toni enstrom
-_a student in aalto university of art and design._
+_a student in aalto university school of art and design._
 
 
 
