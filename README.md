@@ -1,13 +1,15 @@
-testgithub
-==========
 
-#Title 1
-dofiodsifpdosfi
-dosf
-
-## Title 2
-ldöskflök dlkföl sdkfölsk ödsf
+#toni enstrom
+_ a student in aalto university of art and design. _
 
 
 
-Just a test
+### background
+* 3d animation
+  * Autodesk 3dsmax
+  * Autodesk Softimage
+  * Blender 3D
+* graphic design
+  * Adobe InDesign
+  * Adobe Photoshop
+  * Adobe Illustrator
